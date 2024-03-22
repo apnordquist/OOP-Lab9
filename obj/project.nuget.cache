@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "19IfkDAjfmlVa05Og0RQTwGP4z86zjg+lxyQD0WFcLag78XwiypuaxOOSRiAyveadQgUVMkFN4+cK5VTtm96dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\apnor\\CPRG211\\OOP-Lab9\\OOP-Lab9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apnor\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\apnor\\.nuget\\packages\\mysqlconnector\\2.3.6\\mysqlconnector.2.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
